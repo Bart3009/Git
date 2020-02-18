@@ -10,4 +10,6 @@ So the new feature_2 branch is amazing!
 
 So this is new in the feature branch. (not the feature_2 branch)
 
+This line is added in the master branch, while the featur_3 branch is active.
+
 So this is my last change in the master before I understand what I'm doing.
