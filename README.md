@@ -9,3 +9,5 @@ This is written in the develop branch.
 So the new feature_2 branch is amazing!
 
 So this is new in the feature branch. (not the feature_2 branch)
+
+So this is my last change in the master before I understand what I'm doing.
