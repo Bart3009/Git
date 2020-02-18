@@ -16,3 +16,5 @@ This line is added in the master branch, while the featur_3 branch is active.
 So this is my last change in the master before I understand what I'm doing.
 
 This is some new text which I typed in the "featur_3" branch.
+
+What happens if I do this?
